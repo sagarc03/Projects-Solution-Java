@@ -1,1 +1,1 @@
-# Project Solutions Java
+# Project Solution Java
